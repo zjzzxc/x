@@ -1,5 +1,15 @@
-{"urls":[
-{"name":"🚀饭太硬","url":"https://zjzzxc.github.io/x/fantanying.json"},
-{"name":"🐔肥猫","url":"https://zjzzxc.github.io/x/feimao.json"},
-{"name":"🐟王小二","url":"https://zjzzxc.github.io/x/wangxiaoe.json"},
-]}
+{
+    "storeHouse": [
+    {
+        "sourceName": "饭太硬",
+        "sourceUrl": "https://zjzzxc.github.io/x/fantanying.json"
+    },
+    {
+        "sourceName": "肥猫",
+        "sourceUrl": "https://zjzzxc.github.io/x/feimao.json"
+    },
+    {
+        "sourceName": "王小二",
+        "sourceUrl": "https://zjzzxc.github.io/x/wangxiaoe.json"
+    }]
+}
